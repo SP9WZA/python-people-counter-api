@@ -28,5 +28,3 @@ api.add_resource(PeopleCounter, '/count')
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
-
-
